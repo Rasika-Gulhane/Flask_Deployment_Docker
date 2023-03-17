@@ -29,7 +29,7 @@ conda activate venv/
 pip install -r requirements.txt
 ```
 
-To add new/ m odified files
+To add new/ modified files
 ```
 git add .
 ```
