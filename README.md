@@ -1,4 +1,4 @@
-# ML_Project
+# Flask_Project
 Machine_Learning_Project
 Software and account requirement.
 
