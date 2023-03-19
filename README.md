@@ -4,7 +4,7 @@ Software and account requirement.
 
 1. Github Account 
 
-2. Heroku Account
+2. Aws Elastic Beanstalk Account
 
 3. VS code IDE
 
