@@ -34,6 +34,11 @@ To add new/ modified files
 git add .
 ```
 
+To remove added new/ modified files
+```
+git restore --staged <filename>
+```
+
 To commit all changes as a verion 
 ```
 git commit -m "message"
