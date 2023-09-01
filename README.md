@@ -1,5 +1,9 @@
 # Flask_Project1
-Machine_Learning_Project
+Exploring Flask API with Python for Web Applications.
+
+1. Web applications and web servers communicate through 'WSGI' (Web Server Gateway Interface)
+2. For rendering templates and communicating with other data resources, we use the 'Jinja2' template engine. 
+
 Software and account requirement.
 
 1. Github Account 

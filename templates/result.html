@@ -1,0 +1,23 @@
+<html>
+     
+    <h2> 
+        Your Final result is:
+    
+    </h2> 
+    <body>
+
+        {# This jinja2 tag use for commenting anything #}
+
+        Score is {{ result }}
+
+        {% if result >= 50 %}
+        <h1> Your Result is PASS</h1>
+        {% else %}
+        <h1> Your result is FAIL</h1>
+        {% endif %}
+
+
+
+    
+    </body>
+</html>
