@@ -1,4 +1,4 @@
-# Flask_Project1
+# Flask_Docker_Project
 Exploring Flask API with Python for Web Applications.
 
 1. Web applications and web servers communicate through 'WSGI' (Web Server Gateway Interface)
